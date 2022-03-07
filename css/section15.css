@@ -1,0 +1,285 @@
+.section15 {
+  top: 15132px;
+  left: 0px;
+  width: 1440px;
+  height: 818px;
+  background: transparent url("../img/Group 13068.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.grid-container15 {
+  padding-left: 90px;
+  padding-top: 49.76px;
+
+  width: 1000px;
+  grid-template-columns: 600px 600px;
+  -ms-layout-grid-line: none;
+  justify-items: center;
+  column-gap: 20px;
+  row-gap: 50px;
+}
+
+.grid-item15 {
+  top: 25px;
+  font-size: 20px;
+  text-align: center;
+}
+.sec15-content1 {
+  top: 15182px;
+  left: 90px;
+  width: 686px;
+  height: 718px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 11px;
+  opacity: 1;
+}
+
+
+.sec15-txt3 {
+  
+  left: 119px;
+  width: 638px;
+  height: 63px;
+  border: 1px dashed #0f4dc2;
+  border-radius: 3px;
+  opacity: 1;
+}
+.button {
+
+  background: #0f4dc2 0% 0% no-repeat padding-box;
+  border: none;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  width: 120px;
+  border-radius: 3px;
+  height: 30px;
+  justify-content: center;
+  display: flex;
+}
+.sec15-txt4 {
+  width: 150px;
+  height: 18px;
+  font: normal normal medium 15px/11px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #202020;
+  opacity: 0.42;
+}
+
+.flex-container15 {
+  display: flex;
+  justify-items: center;
+  align-items: flex-start;
+  justify-content: center;
+
+  flex-basis: auto;
+
+}
+
+.flex-child15 {
+  flex: 1;
+ 
+  flex-basis:content;
+  
+
+  
+}
+
+.flex-child:second-child15 {
+  flex-shrink: 2;
+  
+}
+.sec15-txt5{
+    padding-top:10px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.sec15-txtarea{
+    
+width: 638px;
+height: 158px;
+border-radius: 3px;
+opacity: 1;
+}
+.grid-container15-1 {
+  padding-left:10px;
+  padding-top: 49.76px;
+  width:800px;
+  grid-template-columns: 400px 400px;
+  -ms-layout-grid-line: none;
+  justify-items: center;
+  column-gap:5px;
+  row-gap:5px;
+}
+
+.grid-item15-1 {
+  top: 25px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.table15-1{
+  border-spacing: 15px;
+padding-left:20px ;
+padding-right:10px;
+padding-top: 42.42px;
+}
+.table15-box
+{
+top: 15254px;
+left: 119px;
+width:300px;
+height: 36px;
+border: 1px solid #D1D1D1;
+border-radius: 3px;
+opacity: 1;
+}
+.table15-txt6
+{
+ 
+text-align: left;
+font: normal normal medium 17px/21px Gilroy ☞;
+letter-spacing: 0px;
+color: #0F0D0D;
+opacity: 1;
+}
+.table15-2{
+  padding-left:32px;
+padding-right:10px;
+
+}
+.checkbox15{
+  top: 15466px;
+left: 119px;
+width: 20px;
+height: 20px;
+background: #0F4DC2 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.lable15{
+  
+
+text-align: left;
+font: normal normal medium Gilroy ☞;
+letter-spacing: 0px;
+color: #202020;
+opacity: 1;
+font-size:15px;
+}
+.main-check{
+ 
+text-align: left;
+padding-bottom:30px ;
+  
+}
+.button15-2
+{
+  left: 50px;
+    background-color:#0F4DC2;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+    height: 20px;
+    width:100px;
+    border-radius: 3px;
+    
+  
+}
+.button15-3{
+  padding-left:30px;
+  justify-items: left;
+}
+.country-box{
+  
+width: 127px;
+height: 57px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 3px 19px #A9A9A929;
+opacity: 1;
+justify-content: center;
+text-align: center;
+}
+.country-txt{
+  top: 15362px;
+left: 950px;
+width: 32px;
+height: 20px;
+text-align: left;
+font: normal normal medium 17px/20px Gilroy ☞;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+}
+.USA{
+ 
+  padding-top:30px;
+  padding-left:150px;
+  
+}
+.Netherland{
+ padding-top:129px;
+ padding-left:450px;
+  
+}
+.UAE{
+ 
+  padding-top:00px;
+  padding-left:450px;
+  
+}
+.India{
+  padding-top:20px;
+  padding-left:600px;
+}
+
+.flex-container15-1 {
+  display: flex;
+}
+
+.flex-child15-1 {
+  flex: 1;
+  
+}  
+
+.flex-child:first-child15-1 {
+  margin-right: 20px;
+} 
+
+.section15-txt5
+{
+  padding-left: 100px;
+  padding-top:220px;
+left: 833px;
+width: 404px;
+height: 56px;
+text-align: left;
+font: normal normal bold 40px/34px Poppins;
+letter-spacing: 0px;
+color: #2D2D2D;
+opacity: 1;
+}
+
+.section15-txt6
+{top: 15761px;
+  padding-left: 100px;
+  width: 479px;
+  height: 45px;
+  text-align: left;
+  font: normal normal medium 17px/25px Gilroy;
+  letter-spacing: 0px;
+  color: #2D2D2D;
+  opacity: 0.9;
+ 
+
+}

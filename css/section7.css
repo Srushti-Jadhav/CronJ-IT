@@ -1,0 +1,140 @@
+.section7 {
+  top: 7377px;
+  left: 0px;
+  width: 1000px;
+  height: 700px;
+  opacity: 1;
+}
+.grid-container7 {
+  display: grid;
+  grid-template-rows: auto;
+  grid-template-columns: auto auto;
+  gap: 10px;
+  background-color: white;
+  padding: 10px;
+}
+.section7-txt1 {
+  top: 6653px;
+  padding-left: 280px;
+  width: 800px;
+  height: 48px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal medium 41px/56px Gilroy;
+  letter-spacing: 0px;
+  color: #201d1d;
+  opacity: 1;
+  font-size: 30px;
+}
+.section7-txt2 {
+  width: 800px;
+  padding-top: 50px;
+  padding-left: 20%;
+
+  text-align: center;
+}
+.grid-container7 {
+  display: grid;
+  grid-template-columns: 136px 136px 136px 136px 136px;
+  background-color: white;
+  border: none;
+}
+
+.grid-item7 {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+.section7-txt3-3 {
+  padding-left: 320px;
+  padding-right: 372px;
+  padding-top: 80px;
+}
+.section7-txt3 {
+  /* Layout Properties */
+
+  left: 580px;
+  width: 136px;
+  height: 33px;
+  /* UI Properties */
+  background: #26dfad 0% 0% no-repeat padding-box;
+  border-radius: 30px;
+  opacity: 1;
+  text-align: center;
+  color: white;
+}
+
+.section7-txt4 {
+  /* Layout Properties */
+
+  left: 580px;
+  width: 136px;
+  height: 33px;
+  /* UI Properties */
+  background: #dee3ea 0% 0% no-repeat;
+  border-radius: 30px;
+  opacity: 1;
+  text-align: center;
+}
+.section7-txt5 {
+  padding-top: 50px;
+  padding-left: 140px;
+  width: 400px;
+  height: 48px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal medium Gilroy;
+  letter-spacing: 0px;
+  color: #201d1d;
+  opacity: 1;
+  font-size: 20px;
+  font-weight: bold;
+}
+.section7-txt6 {
+  padding-top: 50px;
+  padding-left: 55px;
+  width: 400px;
+  height: 48px;
+}
+.section7-txt7 {
+  padding-top: 10px;
+  padding-left: 220px;
+  width: 400px;
+  height: 48px;
+}
+.section7-img1 {
+  /* Layout Properties */
+
+  width: 363px;
+  height: 393px;
+  /* UI Properties */
+  background: transparent
+    url("../img/business-man-expanding-futuristic-virtual-screen-modern-tablet.png")
+    0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.section7-img1-1 {
+  padding-bottom: 65px;
+  padding-top: 25px;
+  position: relative;
+}
+
+.flex-container7 {
+  display: flex;
+}
+
+.flex-child7 {
+  flex: 1;
+  border: none;
+}
+
+.section7-img2 {
+  top: 8030px;
+left: 697px;
+width: 239px;
+height: 189px;
+opacity: 1;
+float:left;
+}

@@ -1,0 +1,77 @@
+.section11_img1 {
+ 
+    left: 0px;
+    width: 1440px;
+    height: 364px;
+    background: transparent url("../img/Group 14405.png") 0% 0% no-repeat
+      padding-box;
+    opacity: 1;
+  }
+  .sec11-txt1
+{
+  padding-top:20px;
+padding-left: 522px;
+width: 379px;
+height: 58px;
+text-align: left;
+font: normal normal 600 49px/54px Gilroy;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+display: flex;
+justify-content: center;
+
+}
+
+.grid-container11-1 {
+    padding-left:50px ;
+    padding-top:50px ;
+  
+    display: grid;
+    width: 1000px;
+    grid-template-columns: auto auto auto auto auto;
+    
+    -ms-layout-grid-line: none;
+  }
+
+  .grid-item11-1 {
+    top: 25px;
+    
+    font-size: 20px;
+    text-align:left;
+  }
+  .flex-container11-1 {
+    display: flex;
+    align-items: stretch;
+  }
+  
+  .flex-child11-1{
+    flex: 1;
+    justify-content: flex-start;
+  
+  }
+  .flex-child11-1:first-child {
+    flex-shrink: 0;
+    }
+    .sec11-txt2{
+    top: 11604px;
+  padding-left:10px;
+  width: 165px;
+  height: 39px;
+  text-align: left;
+  font: normal normal 600 33px/43px Gilroy;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+    }
+    .sec11-txt3{
+      top: 11651px;
+      padding-left:10px;
+  width: 194px;
+  height: 38px;
+  text-align: left;
+  font: normal normal medium 16px/19px Gilroy;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+    }

@@ -1,0 +1,111 @@
+.section10 {
+  width: 1440px;
+  height: 17200px;
+}
+.section10-img1 {
+  left: 664px;
+  width: 112px;
+  height: 112px;
+  background: transparent url("../img/Group 13368.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.section10-img1-1 {
+  padding-left: 600px;
+  padding-right: 664px;
+  padding-top: 30px;
+}
+
+.section10-txt1 {
+  padding-left: 200px;
+  padding-right: 267.5px;
+  width: 905px;
+  height: 48px;
+  text-align: center;
+  font: normal normal medium 41px/56px Gilroy;
+  letter-spacing: 0px;
+  color: #201d1d;
+  opacity: 1;
+  font-size: 35px;
+}
+.section10-txt2 {
+  padding-top: 20px;
+  padding-left: 239px;
+  width: 962px;
+  height: 50px;
+  text-align: center;
+  font: normal normal medium 18px/29px Gilroy;
+  letter-spacing: 0px;
+  color: #020202;
+  opacity: 1;
+}
+.section10_img1 {
+  /* Layout Properties */
+  top: 2923px;
+  left: 0px;
+  width: 315px;
+  height: 257px;
+  /* UI Properties */
+  background: transparent url("../img/Group 13242.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.section10_img2 {
+  top: 11155px;
+
+  width: 332px;
+  height: 271px;
+  /* UI Properties */
+  background: transparent url("../img/Group 13243.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+
+.section10_img2-2 {
+  padding-left: 700px;
+}
+
+
+.grid-container10 {
+  display: grid;
+  width: 700px;
+  grid-template-columns: 175px 175px 175px 175px;
+  grid-template-rows: auto auto auto auto;
+  column-gap: 50px;
+  row-gap: 00px;
+  -ms-layout-grid-line: none;
+}
+.grid-item10 {
+  top: 25px;
+
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  font-size: 20px;
+  text-align: center;
+}
+.flex-container10 {
+  display: flex;
+}
+
+#flex-child10 {
+  flex: 1;
+}
+#flex-child10:nth-of-type(2) {
+  flex-basis: 1000px;
+}
+#flex-child10:nth-of-type(1) {
+  flex-basis: 10px;
+}
+.sec10-item {
+  top: 10947px;
+  left: 454px;
+  width: 200px;
+  height: 85px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #c5c1c1;
+  border-radius: 10px;
+  opacity: 1;
+  display: flex;
+  justify-items: center;
+}
+

@@ -1,0 +1,49 @@
+.grid-container16 {
+  padding-left: 250px;
+  padding-top: 100px;
+  display: grid;
+  width: 1000px;
+  grid-template-columns: auto auto auto;
+  -ms-layout-grid-line: none;
+  justify-items: center;
+  column-gap: 20px;
+  row-gap: 50px;
+}
+
+.grid-item16 {
+  top: 25px;
+  font-size: 20px;
+  text-align: center;
+}
+.sec16-txt1 {
+  top: 16188px;
+  left: 458px;
+  width: 218px;
+  height: 24px;
+  text-align: left;
+  font: normal normal normal 17px/29px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  font-size: 20px;
+}
+.sec16-txt2 {
+  top: 16455px;
+  left: 130px;
+  width: 231px;
+  height: 24px;
+  text-align: left;
+  font: normal normal 600 20px/24px Gilroy ☞;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.sec16-img1 {
+  width: 70px;
+  height: 70px;
+}
+#p {
+  padding: 300px;
+  padding-top: 30px;
+}

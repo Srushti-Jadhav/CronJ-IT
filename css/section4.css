@@ -1,0 +1,47 @@
+#section4-img1
+{
+top: 4600x;
+left: 0px;
+width: 2000px;
+height: 601px;
+background: transparent url("../img/Group 14601.png") 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+#section4-img1_1
+{
+padding-top: 10%;
+}
+#section4-txt
+{
+padding-top:281.36px;
+padding-left: 130px;
+padding-right: 727px;
+padding-bottom:178.64px;
+}
+#section4-txt1
+{
+top: 4801px;
+left: 130px;
+width: 450px;
+height: 141px;
+text-align: left;
+font: normal normal medium 37px/49px Gilroy;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+font-size: 30px;
+}
+#section4-txt2
+{
+top: 4990px;
+left: 130px;
+width: 210px;
+height: 57px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 6px;
+opacity: 1;
+}
+
+
+

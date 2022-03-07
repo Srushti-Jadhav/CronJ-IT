@@ -1,0 +1,153 @@
+.section14-img1 {
+  width: 1183px;
+  height: 368px;
+  background: transparent url("../img/Group 13402.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.section14-img1-1 {
+  padding-left: 75px;
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+.sect14-txt1 {
+  top: 13874px;
+  left: 209px;
+  width: 855px;
+  height: 141px;
+  text-align: left;
+  font: normal normal medium 37px/49px Gilroy;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  font-size: 37px;
+}
+
+.sec14 {
+  padding-left: 80px;
+  padding-right: 240px;
+  padding-top: 73.36px;
+  padding-bottom: 65.14px;
+}
+.table14 {
+  left: 209px;
+  width: 300px;
+  height: 57px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border-radius: 6px;
+  opacity: 1;
+}
+.sect14-2 {
+  left: 0px;
+  width: 1440px;
+  height: 903px;
+  background: #f1f3f6 0% 0% no-repeat padding-box;
+  border-radius: 4px;
+  opacity: 1;
+}
+.sec14-txt2 {
+  top: 14311px;
+  left: 130px;
+  width: 665px;
+  height: 128px;
+  text-align: left;
+  font: normal normal 600 48px/61px Poppins;
+  letter-spacing: 0px;
+  color: #080b0a;
+  opacity: 1;
+}
+.sec14-txt3 {
+  top: 14471px;
+  left: 130px;
+  width: 800px;
+  height: 71px;
+  text-align: left;
+  font: normal normal normal 22px/40px Poppins;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 0.69;
+}
+.sec14-14 {
+  padding-top: 81.27px;
+  padding-left: 130px;
+  padding-right: 313px;
+}
+.grid-container14 {
+  padding-left: 100px;
+  padding-top: 100px;
+  display: grid;
+  width: 1000px;
+  grid-template-columns: auto auto auto;
+  -ms-layout-grid-line: none;
+  justify-items: center;
+  column-gap: 20px;
+  row-gap: 50px;
+}
+
+.grid-item14 {
+  top: 25px;
+  font-size: 20px;
+  text-align: center;
+}
+
+.sec14-bg {
+  top: 14605px;
+  left: 110px;
+  width: 300px;
+  height: 390px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 3px 32px #99999929;
+  border-radius: 14px;
+  opacity: 1;
+}
+
+.sec14-txt4 {
+  left: 152px;
+  width: 302px;
+  height: 83px;
+  text-align: left;
+  font: normal normal 600 21px/29px Gilroy;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+}
+
+.sec14-txt5 {
+  left: 152px;
+  width: 325px;
+  height: 64px;
+  text-align: left;
+  font: normal normal medium 15px/23px Gilroy;
+  letter-spacing: 0px;
+  color: #080b0a;
+  opacity: 0.77;
+}
+.sec14-txt6 {
+  left: 152px;
+  width: 150px;
+  height: 24px;
+  text-align: left;
+  font: normal normal 600 20px/33px Gilroy;
+  letter-spacing: 0px;
+  color: #2cca9f;
+  opacity: 1;
+}
+
+.sec14-txt7 {
+  top: 14930px;
+  left: 195px;
+  width: 200px;
+  height: 16px;
+  text-align: left;
+  font: normal normal medium 14px/21px Gilroy;
+  letter-spacing: 0px;
+  color: #080b0a;
+  opacity: 0.67;
+}
+
+.sec14-size {
+  padding-top: 50.68px;
+  padding-bottom: 48.32px;
+  padding-left: 42.07px;
+  padding-right: 51.76px;
+}

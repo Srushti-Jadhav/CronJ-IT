@@ -1,0 +1,123 @@
+.section9 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  
+  background: #ffffff 0% 0% no-repeat padding-box;
+  opacity: 1;
+}
+
+.sec9-img1 {
+  top: 9528px;
+
+  width: 86px;
+  height: 86px;
+  background: transparent url("../img/Group 13336.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+.sec9-img1-1 {
+  padding-left: 130px;
+}
+.sec9-txt1 {
+  top: 9652px;
+  padding-left: 130px;
+  padding-top: 20px;
+  width: 427px;
+  height: 97px;
+  text-align: left;
+  font: normal normal 600 41px/49px Gilroy;
+  letter-spacing: 0px;
+  color: #1e2036;
+  opacity: 1;
+}
+.sec9-txt2 {
+  top: 9782px;
+  padding-left: 130px;
+  padding-top: 20px;
+  width: 482px;
+  height: 79px;
+  text-align: left;
+  font: normal normal normal 18px/29px Gilroy;
+  letter-spacing: 0.09px;
+  color: #1e2036;
+  opacity: 1;
+}
+.sec9-img2 {
+  top: 9411px;
+  padding-left: 676px;
+  padding-bottom: 83.87px;
+  width: 684.54px;
+  height: 670px;
+  background: transparent url("../img/Group 14426.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  align-items: left;
+}
+.flex-container9 {
+  display: flex;
+}
+
+.flex-child9 {
+  flex: 1;
+  border: none;
+}
+.sec9-img3
+{
+    
+    left: 0px;
+    width: 1440px;
+    height: 368px;
+    background: transparent url("../img/Group 14405.png") 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+.sec9-txt3{
+    padding-top: 70.13px;
+    padding-bottom: 157px;
+    padding-left: 303px;
+    padding-right:302px;
+    left: 303px;
+    width: 835px;
+    height: 141px;
+    /* UI Properties */
+    text-align: center;
+    
+    font: normal normal normal 35px/42px Gilroy;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    }
+    .sec9-txt4
+    {
+    
+    /* UI Properties */
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border-radius: 6px;
+    opacity: 1;
+      
+    }
+    
+    .sec9-txt5
+    {
+      top: 241px;
+    left: 597px;
+    width: 270px;
+    height: 21px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal medium 18px/55px Gilroy;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    font-size:15px;
+    }
+    .sec9-txt4-4
+    {
+      padding-left: 30%;
+      padding-top: 10%;
+    }
+    
+    
+    
+    
+

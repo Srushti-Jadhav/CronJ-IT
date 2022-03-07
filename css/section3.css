@@ -1,0 +1,115 @@
+#section3_img1 {
+  /* Layout Properties */
+  top: 2923px;
+  left: 0px;
+  width: 315px;
+  height: 257px;
+  /* UI Properties */
+  background: transparent url("../img/Group 14527.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+}
+#section3_img2 {
+    
+    left: 777px;
+    width: 663px;
+    height: 500px;
+    /* UI Properties */
+    background: transparent url("../img/Group 14600.png") 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+    
+  }
+#section3_img2_2
+{
+   
+    padding-top:30%;
+}
+#section3_txt1 {
+  top: 3231px;
+  left: 130px;
+  width: 350px;
+  height: 102px;
+  text-align: left;
+  font: normal normal medium 41px/54px Gilroy;
+  font-size: 30px;
+  letter-spacing: 0px;
+  color: #020202;
+  opacity: 1;
+  padding-right: 884px;
+  padding-left: 130px;
+}
+#section3_txt2 {
+  /* Layout Properties */
+  top: 3366px;
+  left: 130px;
+  width: 599px;
+  height: 159px;
+  /* UI Properties */
+  text-align: left;
+  font: normal normal medium 16px/28px Gilroy;
+  letter-spacing: 0px;
+  color: #020202;
+  opacity: 1;
+  padding-right: 884px;
+  padding-left: 130px;
+}
+.section3 
+   {
+    display: grid;
+    grid-template-columns: 650px 550px;
+    grid-gap: 20px;
+    top: 718px;
+    left: 0px;
+    width: 1440px;
+    height:1200px;
+    }
+
+    #section3_img3
+    {
+    top: 3813px;
+    width: 1180px;
+    height: 574px;
+    background: transparent url("../img/Group 14598.png") 0% 0% no-repeat padding-box;
+    opacity: 1;
+    
+   }
+   #centered {
+    padding-left: 130px;
+    padding-right: 160px;
+  }
+  
+   #section3_txt3{
+    font: normal normal medium 41px/54px Gilroy;
+    letter-spacing: 0px;
+    color: #020202;
+    font-size: 30px;
+   display: flex;
+    }
+    
+    
+  
+  
+  #section3_txt4{
+    top: 1440px;
+    left: 711px;
+    width: 500px;
+    height: 103px;
+   
+    font: normal normal medium 16px/28px Gilroy;
+    letter-spacing: 0px;
+    color: #020202;
+    opacity: 1;
+    padding-top: "2%";
+    display: flex;
+  }
+  
+
+.bottom-center {
+  padding-top:40%;
+  padding-left:35%;
+ 
+  
+}
+
+    
